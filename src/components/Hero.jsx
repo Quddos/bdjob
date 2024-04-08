@@ -1,5 +1,5 @@
 import React from 'react'
-
+import { ImAirplane } from "react-icons/im";
 const Hero = ({title ='Become a React Dev', subtitle}) => {
   return (
     <>
@@ -10,7 +10,7 @@ const Hero = ({title ='Become a React Dev', subtitle}) => {
         <div className="text-center">
           <h1
             className="text-4xl font-extrabold text-white sm:text-5xl md:text-6xl"
-          >
+          > <ImAirplane className='inline text-m mb-1 mr-1' />
             {title}
           </h1>
           <p className="my-4 text-xl text-white">
