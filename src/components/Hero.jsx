@@ -1,6 +1,6 @@
 import React from 'react'
 import { ImAirplane } from "react-icons/im";
-const Hero = ({title ='Become a React Dev', subtitle='Find the React job that fits your skills and needs'}) => {
+const Hero = ({title ='A Dream out of Your Region', subtitle='Find the Best job Acrosses border that fits your skills and needs'}) => {
   return (
     <>
          <section className="bg-indigo-700 py-20 mb-4">
