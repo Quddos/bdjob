@@ -109,42 +109,6 @@
       }
     },
     {
-      "id": "3786",
-      "title": "Test Job Data Analysis",
-      "type": "Remote",
-      "location": "India. Visakhapatnam",
-      "description": "This is Test Job",
-      "salary": "$90K - 100K",
-      "company": {
-        "name": "Bdnaturetech",
-        "description": "This is Outsanding Organization",
-        "contactEmail": "quddus@bdnaturetech.com",
-        "contactPhone": "09032782704"
-      },
-      "videp": {
-        "about": "",
-        "url": ""
-      }
-    },
-    {
-      "id": "6830",
-      "title": "TEST 2",
-      "type": "Full-Time",
-      "location": "India. Visakhapatnam",
-      "description": "Testing 2",
-      "salary": "Under $50K",
-      "company": {
-        "name": "Bdnaturetech",
-        "description": "Testing company",
-        "contactEmail": "quddus@bdnaturetech.com",
-        "contactPhone": "99999-9999"
-      },
-      "videp": {
-        "about": "",
-        "url": ""
-      }
-    },
-    {
       "id": "7",
       "title": "Test Full Stack React Developer",
       "type": "Full-Time",
@@ -159,42 +123,6 @@
       },
       "video": {
         "about": "Full stack Job Requirement Bootcamp",
-        "url": "https://www.youtube.com/embed/5qzUFf5w_Bk"
-      }
-    },
-    {
-      "id": "8",
-      "title": "reset test",
-      "type": "Full-Time",
-      "location": "reset test",
-      "description": "reset test",
-      "salary": "Under $50K",
-      "company": {
-        "name": "reset test",
-        "description": "reset test",
-        "contactEmail": "quddus@bdnaturetech.com",
-        "contactPhone": "999-88-8088"
-      },
-      "videp": {
-        "about": "reset test",
-        "url": "https://www.youtube.com/embed/5qzUFf5w_Bk"
-      }
-    },
-    {
-      "id": "b1a4",
-      "title": "about",
-      "type": "Full-Time",
-      "description": "about",
-      "location": "About",
-      "salary": "Under $50K",
-      "company": {
-        "name": "about",
-        "description": "about",
-        "contactEmail": "quddus@bdnaturetech.com",
-        "contactPhone": "9999-99999"
-      },
-      "video": {
-        "about": "about",
         "url": "https://www.youtube.com/embed/5qzUFf5w_Bk"
       }
     }
